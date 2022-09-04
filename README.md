@@ -2,6 +2,11 @@
 
 Taken from [WindowsでCircleCIのローカル環境を動かす](https://ancozerticht.hatenablog.com/entry/2022/08/27/212337).
 
+```
+circleci config validate
+circleci local execute
+```
+
 If you see an error like this,
 
 ```
